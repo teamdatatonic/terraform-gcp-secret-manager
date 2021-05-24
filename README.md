@@ -40,9 +40,7 @@ No provider.
 
 ## Outputs
 
-| Name | Description |
-|------|-------------|
-| secret\_name | The id of the secret manager. Format: projects/{{project}}/secrets/{{secret\_id}} |
+No output.
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
